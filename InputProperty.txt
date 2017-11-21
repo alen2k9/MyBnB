@@ -1,0 +1,9 @@
+1	1	Alen_Thomas	63_Fakeflow	6	0	1	3
+1	2	Jakub_Gajewski	68_Fairview	6	0	1	4
+1	3	Sergei_Baskin	3_Sheepmore	6	0	2	2
+2	4	Mark_Hartnett	56_Fitysix	10	0	3	20
+2	5	Hugh_Ormound	21_Twentyone	10	0	3	20
+2	6	Mason_Smith	32_Thirtytwo	10	0	2	15
+3	7	Connor_Meego	98_Ninetyeight	20	0	5	20	4
+3	8	Dom_Sniezka	34_Wexford	20	0	5	20	5
+3	9	Sam_Bates	Timaleegue	20	0	5	20	5

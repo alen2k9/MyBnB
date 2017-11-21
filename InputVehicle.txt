@@ -1,0 +1,4 @@
+1	1	Alen_Thomas	0	10	4
+2	2	Jakub_Gajewski	0	20	500
+2	3	Sergei_Baskin	0	15	300
+1	4	Mark_Hartnett	0	5	2

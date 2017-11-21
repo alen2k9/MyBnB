@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------MyBnB Property-----------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+=========================================================Apartments=============================================================
+Registration Number  Owner           Address         Rent p/d   Total Days Rented  Floor Number  Number of Beds    
+1                    Alen_Thomas     63_Fakeflow     6          0                 1             3
+2                    Jakub_Gajewski  68_Fairview     6          0                 1             4
+3                    Sergei_Baskin   3_Sheepmore     6          0                 2             2
+===========================================================Houses===============================================================
+Registration Number  Owner           Address         Rent p/d   Total Days Rented  Number of Floors     Clearing Fee    
+4                    Mark_Hartnett   56_Fitysix      10         0                 3                    20
+5                    Hugh_Ormound    21_Twentyone    10         0                 3                    20
+6                    Mason_Smith     32_Thirtytwo    10         0                 2                    15
+===========================================================Villas===============================================================
+Registration Number  Owner           Address         Rent p/d   Total Days Rented  Room Service  Luxury Tax  Number of Rooms    
+7                    Connor_Meego    98_Ninetyeight  20         0                 5             20          4
+8                    Dom_Sniezka     34_Wexford      20         0                 5             20          5
+9                    Sam_Bates       Timaleegue      20         0                 5             20          5
